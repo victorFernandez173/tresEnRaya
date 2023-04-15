@@ -1,3 +1,3 @@
 # tresEnRaya
 
--Incluye codigo en /src y ejecutable 'tresEnRaya.jar'
+-Código en '/src' y ejecutable 'tresEnRaya.jar'
