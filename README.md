@@ -6,8 +6,8 @@
 
 -Screenshots: 
 
-<img src="img1.png" />
-<img src="img2.png" />
-<img src="img3.png" />
-<img src="img4.png" />
-<img src="img5.png" />
+<img src="img1.png" width="300px" />
+<img src="img2.png" width="300px" />
+<img src="img3.png" width="300px" />
+<img src="img4.png" width="300px" />
+<img src="img5.png" width="300px" />
